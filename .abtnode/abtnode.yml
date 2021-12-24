@@ -1,0 +1,36 @@
+node:
+  name: 'Blocklet Server [xdqs]'
+  description: 'Blocklet Server on [172.18.81.27]'
+  mode: production
+  version: 1.6.2
+  sk: >-
+    0x19bce2ffe669202994a0120a0cbcfea68ef934fedfe9564099dcf81b9d27f52482ed79ed6db8923d4618d7e8fe107c5998d23dbd399b080ac36fccfdfb32b083
+  pk: '0x82ed79ed6db8923d4618d7e8fe107c5998d23dbd399b080ac36fccfdfb32b083'
+  did: zNKbaSyyz2hmJEFa3K2FqQDpyXFcEoN95Mfb
+  port: 8089
+  secret: '0xe416a24efdb4f9e618d1192b175b92493b37b9551a47b44498ade2c878b4eadf'
+  owner:
+    pk: ''
+    did: ''
+  ownerNft:
+    holder: ''
+    issuer: ''
+  routing:
+    provider: nginx
+    adminPath: /admin/
+    headers:
+      X-Powered-By: '"Blocklet Server/1.6.2"'
+    maxUploadFileSize: 500
+    https: true
+    httpPort: 80
+    httpsPort: 443
+    dashboardCertDownloadAddress: 'https://cert.abtnet.io/open/download/certificates/ip_abtnet_io'
+    dashboardDomain: '*.ip.abtnet.io'
+  runtimeConfig:
+    daemonMaxMemoryLimit: 600
+    proxyMaxMemoryLimit: 300
+    blockletMaxMemoryLimit: 300
+blocklet:
+  port: 8089
+initialize:
+  blocklets: []

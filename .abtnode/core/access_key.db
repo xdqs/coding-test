@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"accessKeyId","unique":true,"sparse":false}}
+{"accessKeyId":"z1UurEHanVHsRZVxRVVFumB5RY9mDCqwrpk","accessKeyPublic":"0x79d0a396c5a1781aa287bc168d8036102aa5af7563f44cdf5df96b41ab0b89ad","passport":"admin","remark":"__local-deploy__","_id":"U3rCkBS0xR15Quap","createdAt":{"$$date":1640333213008},"updatedAt":{"$$date":1640333213008}}
+{"accessKeyId":"z1UurEHanVHsRZVxRVVFumB5RY9mDCqwrpk","accessKeyPublic":"0x79d0a396c5a1781aa287bc168d8036102aa5af7563f44cdf5df96b41ab0b89ad","passport":"admin","remark":"__local-deploy__","_id":"U3rCkBS0xR15Quap","createdAt":{"$$date":1640333213008},"updatedAt":{"$$date":1640333213671},"lastUsedAt":"2021-12-24T08:06:53.671Z"}
+{"$$deleted":true,"_id":"U3rCkBS0xR15Quap"}

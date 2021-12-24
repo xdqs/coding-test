@@ -1,0 +1,6 @@
+{"name":"guest","title":"Guest","type":"role","grants":[],"_id":"Jn4zszvVY2xibWN3","createdAt":{"$$date":1640234702513},"updatedAt":{"$$date":1640234702513}}
+{"name":"member","title":"Member","type":"role","grants":[],"_id":"AuWBVEprMxWBvaha","createdAt":{"$$date":1640234702522},"updatedAt":{"$$date":1640234702522}}
+{"name":"admin","title":"Admin","type":"role","grants":[],"_id":"oIqcQqTWtKx5xBHf","createdAt":{"$$date":1640234702533},"updatedAt":{"$$date":1640234702533}}
+{"name":"owner","title":"Owner","type":"role","grants":[],"_id":"dT1gFi34ATsbsHkR","createdAt":{"$$date":1640234702542},"updatedAt":{"$$date":1640234702542}}
+{"name":"access_publicUrl","description":"Access resources under the publicUrl interface","extra":{"isProtected":true},"type":"permission","_id":"cKX6x0QUk4wnyQIQ","createdAt":{"$$date":1640234702560},"updatedAt":{"$$date":1640234702560}}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
